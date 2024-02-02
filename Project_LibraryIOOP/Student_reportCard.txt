@@ -1,0 +1,25 @@
+Student Report Card
+Name:                              Shann Delfin C. Salamingan III     
+Age:                               17                                 
+Grade level:                       Grade 11                           
+LRN:                               8884129                            
+
+Subject:                           Grade:                             
+Discrete Mathematics               91                                 
+Average:                           91                                 
+
+Student Report Card
+Name:                              Shann Delfin C. Salamingan III     
+Age:                               17                                 
+Grade level:                       Grade 11                           
+LRN:                               8884129                            
+
+Subjects:                          Grades:                            
+English                            99                                 
+Data Structure and Algorithms      96                                 
+Computer Programming               99                                 
+Math                               100                                
+TLE                                100                                
+Discrete Mathematics               91                                 
+Average:                           97                                 
+
